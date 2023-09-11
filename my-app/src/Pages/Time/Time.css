@@ -1,0 +1,9 @@
+.project_title{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+}
